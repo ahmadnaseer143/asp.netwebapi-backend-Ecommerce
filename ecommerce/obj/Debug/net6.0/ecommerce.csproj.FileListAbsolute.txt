@@ -1,0 +1,141 @@
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\appsettings.Development.json
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\appsettings.json
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\ecommerce.exe
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\ecommerce.deps.json
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\ecommerce.runtimeconfig.json
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\ecommerce.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\ecommerce.pdb
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.csproj.AssemblyReference.cache
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.AssemblyInfoInputs.cache
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.AssemblyInfo.cs
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.csproj.CoreCompileInputs.cache
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.MvcApplicationPartsAssemblyInfo.cs
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.MvcApplicationPartsAssemblyInfo.cache
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\staticwebassets.build.json
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\staticwebassets.development.json
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\scopedcss\bundle\ecommerce.styles.css
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.csproj.CopyComplete
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\refint\ecommerce.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.pdb
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.genruntimeconfig.cache
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ref\ecommerce.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Google.Protobuf.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\MySql.Data.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\learn\web development\ibex\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\appsettings.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\ecommerce.exe
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\ecommerce.deps.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\ecommerce.runtimeconfig.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\ecommerce.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\ecommerce.pdb
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.csproj.AssemblyReference.cache
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.AssemblyInfoInputs.cache
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.AssemblyInfo.cs
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.build.ecommerce.props
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ecommerce.props
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ecommerce.props
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\scopedcss\bundle\ecommerce.styles.css
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.csproj.CopyComplete
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\refint\ecommerce.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.pdb
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ecommerce.genruntimeconfig.cache
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\obj\Debug\net6.0\ref\ecommerce.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\Ecommerce-Angular\backend\ecommerce\ecommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
